@@ -270,4 +270,5 @@ def run():
         cv2.destroyAllWindows()
 
 if __name__ == "__main__":
+    # At runtime, type "python main.py --exercise-type=squat" or something like that.
     run()
